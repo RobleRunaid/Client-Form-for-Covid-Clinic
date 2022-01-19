@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre&family=Zen+Antique+Soft&display=swap');
+body{
+    font-family: 'Averia Serif Libre', cursive;
+    font-family: 'Zen Antique Soft', serif;
+    text-align: center;
+    background-color: burlywood;
+}
+h1{
+    font-size: 55px;
+    font-weight: bolder;
+}
+div{
+    background-color: cornflowerblue;
+    border-radius: 20px;
+    padding-bottom: 13px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 25px;
+    margin-bottom: 12.5px;
+}
+.Form-Input{
+    border-color: darkcyan;
+    border-width: 4.5px;
+    border-radius: 5px;
+}
+#Name-Client{
+    width: 200px;
+}
+#Email{
+    width: 175px;
+}
+#Symptoms{
+    width: 500px;
+}
+label{
+    font-size: 18px;
+}
+#Submit-Button{
+    width: 75px;
+    height: 40px;
+}
+#Submit-Text{
+    color:rgb(0, 66, 28);
+    text-decoration: none;
+    font-size: 17px;
+    font-weight:bolder;
+    
+}
+footer{
+    text-align: left;
+    margin-left: 25px;
+}

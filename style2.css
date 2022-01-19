@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre&family=Zen+Antique+Soft&display=swap');
+body{
+    font-family: 'Averia Serif Libre', cursive;
+    font-family: 'Zen Antique Soft', serif;
+    text-align: center;
+    background-color: burlywood;
+}
+div{
+    background-color: cornflowerblue;
+    border-radius: 20px;
+    padding: 3px;
+    margin-top: 160px;
+}
+a{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
